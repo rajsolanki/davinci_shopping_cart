@@ -1,6 +1,6 @@
 <h1> DaVinci Motors </h1>
 
-<p>This is a Ruby on Rails application I developed as part of the <a href="http://www.davincicoders.com/">Building the Toolbelt of a Junior Ruby on Rails Developer</a> class I took in the Summer of 2014</p>
+<p>This is a Ruby on Rails application I developed as part of the <a href="http://www.davincicoders.com/" target="blank">Building the Toolbelt of a Junior Ruby on Rails Developer</a> class I took in the Summer of 2014</p>
 
 <h2>Features:</h2>
 <ul>
